@@ -30,7 +30,7 @@ If you find the awesome paper/code/book/tutorials/dataset or have some suggestio
 
 ### 2018
 | Title        | Conf    |  paper  |  Code  | Tags | Notes |
-| --------     | -----:  | :----:  | :----: |:----:|:----:|
+| --------     |  -----  |  :----: | :----: |----|----|
 | []Adversarial Learning for Semi-Supervised Semantic Segmentation |BMVC|[paper](https://arxiv.org/abs/1802.07934)|[code](https://github.com/hfslyc/AdvSemiSeg)|`Semi.`|     |
 | []Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning |arXiv|[paper](https://arxiv.org/abs/1806.04798)||`Meta.` `RL.`||
 
