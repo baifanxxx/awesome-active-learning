@@ -5,15 +5,18 @@
 ## Background
 
 ![](https://github.com/baifanxxx/awesome-active-learning/blob/main/fig/an_illustrative_AL_example.jpg)
+
 (image source: [Settles, Burr](https://minds.wisconsin.edu/handle/1793/60660))
 
 #### What is Active Learning?
 Active learning is a special case of machine learning in which a learning algorithm can interactively query a oracle (or some other information source) to label new data points with the desired outputs.
 
 ![](https://github.com/baifanxxx/awesome-active-learning/blob/main/fig/active_learning_cycle.jpg)
+
 (image source: [Settles, Burr](https://minds.wisconsin.edu/handle/1793/60660))
 
 There are situations in which unlabeled data is abundant but manual labeling is expensive. In such a scenario, learning algorithms can actively query the oracle for labels. This type of iterative supervised learning is called active learning. Since the learner chooses the examples, the number of examples to learn a concept can often be much lower than the number required in normal supervised learning. With this approach, there is a risk that the algorithm is overwhelmed by uninformative examples. Recent developments are dedicated to multi-label active learning, hybrid active learning and active learning in a single-pass (on-line) context, combining concepts from the field of machine learning (e.g. conflict and ignorance) with adaptive, incremental learning policies in the field of online machine learning.
+
 (source: [Wikipedia](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)))
 
 ## Contributing
