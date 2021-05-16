@@ -4,12 +4,15 @@
 
 ## Background
 #### What is Active Learning?
+Active learning is a special case of machine learning in which a learning algorithm can interactively query a oracle (or some other information source) to label new data points with the desired outputs.
 
+There are situations in which unlabeled data is abundant but manual labeling is expensive. In such a scenario, learning algorithms can actively query the oracle for labels. This type of iterative supervised learning is called active learning. Since the learner chooses the examples, the number of examples to learn a concept can often be much lower than the number required in normal supervised learning. With this approach, there is a risk that the algorithm is overwhelmed by uninformative examples. Recent developments are dedicated to multi-label active learning, hybrid active learning and active learning in a single-pass (on-line) context, combining concepts from the field of machine learning (e.g. conflict and ignorance) with adaptive, incremental learning policies in the field of online machine learning.
 
+(source: [Wikipedia](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)))
 
 ## Contributing
 
-If you find the awesome paper/code/book/tutorials/dataset or have some suggestions, please feel free to [pull requests](https://github.com/baifanxxx/awesome-active-learning/pulls) or contact baifanxxx@gmail.com to add papers using the following Markdown format. Thanks for your valuable contribution to the research community. 😃
+If you find the awesome paper/code/book/tutorial or have some suggestions, please feel free to [pull requests](https://github.com/baifanxxx/awesome-active-learning/pulls) or contact [me](baifanxxx@gmail.com) to add papers using the following Markdown format. Thanks for your valuable contribution to the research community. 😃
 
 `
 Year | Paper Name | Conference | [Paper](link) | [code](link) | Tags | Notes |
@@ -17,6 +20,18 @@ Year | Paper Name | Conference | [Paper](link) | [code](link) | Tags | Notes |
 
 
 ## Table of Contents
+* [Books](#books)	
+* [Surveys & Review](#surveys & review)
+* [Papers](#papers)
+* [Turtorial](#turtorial)
+* [Tool](#tool)
+
+
+## Books
+
+
+## Surveys & Review
+
 
 
 
@@ -65,3 +80,14 @@ Year | Paper Name | Conference | [Paper](link) | [code](link) | Tags | Notes |
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | []MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning   |arXiv|[paper](https://arxiv.org/abs/2103.14339)||`Meta.` `RL.`|  |
+
+
+
+
+## Turtorial
+
+
+## Tool
+
+
+
