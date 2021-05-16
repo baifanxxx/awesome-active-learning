@@ -2,9 +2,19 @@
 
 🤩 A curated list of awesome Active Learning ! 🤩
 
+## Background
+#### What is Active Learning?
+
+
+
 ## Contributing
 
-If you find the awesome paper/code/book/tutorials/dataset or have some suggestions, please feel free to [pull requests](https://github.com/baifanxxx/awesome-active-learning/pulls) or contact baifanxxx@gmail.com to add papers. Thanks for your valuable contribution to the research community. 😃
+If you find the awesome paper/code/book/tutorials/dataset or have some suggestions, please feel free to [pull requests](https://github.com/baifanxxx/awesome-active-learning/pulls) or contact baifanxxx@gmail.com to add papers using the following Markdown format. Thanks for your valuable contribution to the research community. 😃
+
+'''
+| Paper Name | Conference | [Paper](link) | [code](link) | Tags | Notes |
+'''
+
 
 ## Table of Contents
 
