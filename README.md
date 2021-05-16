@@ -12,7 +12,7 @@ There are situations in which unlabeled data is abundant but manual labeling is 
 
 ## Contributing
 
-If you find the awesome paper/code/book/tutorial or have some suggestions, please feel free to [pull requests](https://github.com/baifanxxx/awesome-active-learning/pulls) or contact [me](baifanxxx@gmail.com) to add papers using the following Markdown format. Thanks for your valuable contribution to the research community. 😃
+If you find the awesome paper/code/book/tutorial or have some suggestions, please feel free to [pull requests](https://github.com/baifanxxx/awesome-active-learning/pulls) or contact [me](https://baifanxxx@gmail.com) to add papers using the following Markdown format. Thanks for your valuable contribution to the research community. 😃
 
 `
 Year | Paper Name | Conference | [Paper](link) | [code](link) | Tags | Notes |
@@ -21,16 +21,16 @@ Year | Paper Name | Conference | [Paper](link) | [code](link) | Tags | Notes |
 
 ## Table of Contents
 * [Books](#books)	
-* [Surveys & Review](#surveys & review)
+* [Surveys](#surveys)
 * [Papers](#papers)
-* [Turtorial](#turtorial)
-* [Tool](#tool)
+* [Turtorials](#turtorials)
+* [Tools](#tools)
 
 
 ## Books
 
 
-## Surveys & Review
+## Surveys
 
 
 
@@ -84,10 +84,10 @@ Year | Paper Name | Conference | [Paper](link) | [code](link) | Tags | Notes |
 
 
 
-## Turtorial
+## Turtorials
 
 
-## Tool
+## Tools
 
 
 
