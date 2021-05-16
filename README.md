@@ -3,10 +3,8 @@
 🤩 A curated list of awesome Active Learning ! 🤩
 
 ## Background
-#### What is Active Learning?
-
 ![](https://github.com/baifanxxx/awesome-active-learning/blob/main/fig/an_illustrative_AL_example.jpg)
-
+#### What is Active Learning?
 Active learning is a special case of machine learning in which a learning algorithm can interactively query a oracle (or some other information source) to label new data points with the desired outputs.
 
 ![](https://github.com/baifanxxx/awesome-active-learning/blob/main/fig/active_learning_cycle.jpg)
