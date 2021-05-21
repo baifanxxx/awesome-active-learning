@@ -89,7 +89,7 @@ Thanks for your valuable contribution to the research community. 😃
 | A Meta-Learning Approach to One-Step Active-Learning         |AutoML@PKDD/ECML|[paper](https://arxiv.org/abs/1706.08334)||`Meta.`|     |
 | Generative Adversarial Active Learning         |arXiv|[paper](https://arxiv.org/abs/1702.07956)||`Syn.`|     |
 |Active Learning from Peers|NIPS|[paper](http://papers.neurips.cc/paper/7276-active-learning-from-peers.pdf)||||
-|Learning Active Learning from Data|NIPS|[paper](https://arxiv.org/abs/1703.03365)||||
+|Learning Active Learning from Data|NIPS|[paper](https://arxiv.org/abs/1703.03365)|[code](https://github.com/ksenia-konyushkova/LAL)|||
 |Learning Algorithms for Active Learning|ICML|[paper](http://proceedings.mlr.press/v70/bachman17a.html)||||
 | Deep Bayesian Active Learning with Image Data         |ICML|[paper](http://proceedings.mlr.press/v70/gal17a)||   |     |
 
