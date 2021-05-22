@@ -91,7 +91,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Active Learning from Peers|NIPS|[paper](http://papers.neurips.cc/paper/7276-active-learning-from-peers.pdf)||||
 |Learning Active Learning from Data|NIPS|[paper](https://arxiv.org/abs/1703.03365)|[code](https://github.com/ksenia-konyushkova/LAL)|||
 |Learning Algorithms for Active Learning|ICML|[paper](http://proceedings.mlr.press/v70/bachman17a.html)||||
-| Deep Bayesian Active Learning with Image Data         |ICML|[paper](http://proceedings.mlr.press/v70/gal17a)||   |     |
+| Deep Bayesian Active Learning with Image Data         |ICML|[paper](http://proceedings.mlr.press/v70/gal17a)|[code](https://github.com/Riashat/Active-Learning-Bayesian-Convolutional-Neural-Networks/tree/master/ConvNets/FINAL_Averaged_Experiments/Final_Experiments_Run)|   |     |
 
 
 
