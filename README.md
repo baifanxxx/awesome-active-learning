@@ -85,13 +85,13 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |Active Decision Boundary Annotation with Deep Generative Models|ICCV|[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huijser_Active_Decision_Boundary_ICCV_2017_paper.pdf)||||
-| Active One-shot Learning         |CoRR|[paper](https://arxiv.org/abs/1702.06559)|[code](https://github.com/markpwoodward/active_osl)|`FS.` `RL.`|     |
-| A Meta-Learning Approach to One-Step Active-Learning         |AutoML@PKDD/ECML|[paper](https://arxiv.org/abs/1706.08334)||`Meta.`|     |
-| Generative Adversarial Active Learning         |arXiv|[paper](https://arxiv.org/abs/1702.07956)||`Syn.`|     |
+| Active One-shot Learning         |CoRR|[paper](https://arxiv.org/abs/1702.06559)|[code](https://github.com/markpwoodward/active_osl)|`Str.``RL.``FS.`|     |
+| A Meta-Learning Approach to One-Step Active-Learning         |AutoML@PKDD/ECML|[paper](https://arxiv.org/abs/1706.08334)||`Pool.``Meta.`|     |
+| Generative Adversarial Active Learning         |arXiv|[paper](https://arxiv.org/abs/1702.07956)||`Pool.``Syn.`|     |
 |Active Learning from Peers|NIPS|[paper](http://papers.neurips.cc/paper/7276-active-learning-from-peers.pdf)||||
-|Learning Active Learning from Data|NIPS|[paper](https://arxiv.org/abs/1703.03365)|[code](https://github.com/ksenia-konyushkova/LAL)|||
+|Learning Active Learning from Data|NIPS|[paper](https://arxiv.org/abs/1703.03365)|[code](https://github.com/ksenia-konyushkova/LAL)|`Pool.`||
 |Learning Algorithms for Active Learning|ICML|[paper](http://proceedings.mlr.press/v70/bachman17a.html)||||
-| Deep Bayesian Active Learning with Image Data         |ICML|[paper](http://proceedings.mlr.press/v70/gal17a)|[code](https://github.com/Riashat/Active-Learning-Bayesian-Convolutional-Neural-Networks/tree/master/ConvNets/FINAL_Averaged_Experiments/Final_Experiments_Run)|   |     |
+| Deep Bayesian Active Learning with Image Data|ICML|[paper](http://proceedings.mlr.press/v70/gal17a)|[code](https://github.com/Riashat/Active-Learning-Bayesian-Convolutional-Neural-Networks/tree/master/ConvNets/FINAL_Averaged_Experiments/Final_Experiments_Run)|`Pool.`   |     |
 
 
 
@@ -101,44 +101,43 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |The Power of Ensembles for Active Learning in Image Classification|CVPR|[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf)||||
-| Adversarial Learning for Semi-Supervised Semantic Segmentation |BMVC|[paper](https://arxiv.org/abs/1802.07934)|[code](https://github.com/hfslyc/AdvSemiSeg)|`SSL.`|     |
-| Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning |arXiv|[paper](https://arxiv.org/abs/1806.04798)||`Meta.` `RL.`||
+| Adversarial Learning for Semi-Supervised Semantic Segmentation |BMVC|[paper](https://arxiv.org/abs/1802.07934)|[code](https://github.com/hfslyc/AdvSemiSeg)|`Pool.``SSL.`|  |
 |A Variance Maximization Criterion for Active Learning|Pattern Recognition|[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300256)||||
-|Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning|ICLR-WS|[paper](https://arxiv.org/abs/1806.04798)||||
+|Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning|ICLR-WS|[paper](https://arxiv.org/abs/1806.04798)|`Pool.``Meta.` `RL.`|||
 |Active Learning for Convolutional Neural Networks: A Core-Set Approach|ICLR|[paper](https://openreview.net/pdf?id=H1aIuk-RW)||||
 |Adversarial Active Learning for Sequence Labeling and Generation|IJCAI|[paper](https://www.ijcai.org/proceedings/2018/0558.pdf)||||
 |Meta-Learning for Batch Mode Active Learning|ICLR-WS|[paper](https://openreview.net/references/pdf?id=r1PsGFJPz)||||
-|The Power of Ensembles for Active Learning in Image Classification|CVPR|[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Beluch_The_Power_of_CVPR_2018_paper.html)||||
+
 
 
 ### 2019
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Siddiqui_ViewAL_Active_Learning_With_Viewpoint_Entropy_for_Semantic_Segmentation_CVPR_2020_paper.html)||| |
-| Bayesian Generative Active Deep Learning    |ICML|[paper](http://proceedings.mlr.press/v97/tran19a.html)|[code](https://github.com/toantm/BGADL)|`Semi.`|   |
-| Variational Adversarial Active Learning    |ICCV|[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Sinha_Variational_Adversarial_Active_Learning_ICCV_2019_paper.html)||`SSL.`|   |
+| ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Siddiqui_ViewAL_Active_Learning_With_Viewpoint_Entropy_for_Semantic_Segmentation_CVPR_2020_paper.html)||`Pool.`| |
+| Bayesian Generative Active Deep Learning    |ICML|[paper](http://proceedings.mlr.press/v97/tran19a.html)|[code](https://github.com/toantm/BGADL)|`Pool.``Semi.`|   |
+| Variational Adversarial Active Learning    |ICCV|[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Sinha_Variational_Adversarial_Active_Learning_ICCV_2019_paper.html)||`Pool.``SSL.`|   |
 |Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning|NeurIPS|[paper](https://papers.nips.cc/paper/2019/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)|| |   |
 |Active Learning via Membership Query Synthesisfor Semi-supervised Sentence Classification|CoNLL|[paper](https://www.aclweb.org/anthology/K19-1044/)|| |   |
 |Discriminative Active Learning|arXiv|[paper](https://arxiv.org/pdf/1907.06347.pdf)|| |   |
 |Semantic Redundancies in Image-Classification Datasets: The 10% You Don’t Need|arXiv|[paper](https://arxiv.org/pdf/1901.11409.pdf)|| |   |
 |Bayesian Batch Active Learning as Sparse Subset Approximation|NIPS|[paper](http://papers.nips.cc/paper/8865-bayesian-batch-active-learning-as-sparse-subset-approximation.pdf)|| |   |
-| Learning Loss for Active Learning   |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Yoo_Learning_Loss_for_Active_Learning_CVPR_2019_paper.html)|| |   |
+| Learning Loss for Active Learning   |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Yoo_Learning_Loss_for_Active_Learning_CVPR_2019_paper.html)|[code](https://github.com/Mephisto405/Learning-Loss-for-Active-Learning)|`Pool.` |   |
 |Rapid Performance Gain through Active Model Reuse|IJCAI|[paper](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf)|| |   |
-|Parting with Illusions about Deep Active Learning|arXiv|[paper](https://arxiv.org/abs/1912.05361)|| |   |
+|Parting with Illusions about Deep Active Learning|arXiv|[paper](https://arxiv.org/abs/1912.05361)||`Cri.` |   |
 |BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning|NIPS|[paper](http://papers.nips.cc/paper/8925-batchbald-efficient-and-diverse-batch-acquisition-for-deep-bayesian-active-learning.pdf)|| |   |
 
 
 ### 2020
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| Reinforced active learning for image segmentation |ICLR|[paper](https://arxiv.org/abs/2002.06583)|[code](https://github.com/ArantxaCasanova/ralis)|`RL.`| |
+| Reinforced active learning for image segmentation |ICLR|[paper](https://arxiv.org/abs/2002.06583)|[code](https://github.com/ArantxaCasanova/ralis)|`Pool.``RL.`| |
 |[BADGE] Batch Active learning by Diverse Gradient Embeddings|ICLR|[paper](https://arxiv.org/abs/1906.03671)|[code](https://github.com/JordanAsh/badge)|`Pool.`| |
-|Adversarial Sampling for Active Learning|WACV|[paper](https://openaccess.thecvf.com/content_WACV_2020/html/Mayer_Adversarial_Sampling_for_Active_Learning_WACV_2020_paper.html)||| |
+|Adversarial Sampling for Active Learning|WACV|[paper](https://openaccess.thecvf.com/content_WACV_2020/html/Mayer_Adversarial_Sampling_for_Active_Learning_WACV_2020_paper.html)||`Pool.`| |
 |Online Active Learning of Reject Option Classifiers|AAAI|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6019/5875)||| |
 |Deep Active Learning for Biased Datasets via Fisher Kernel Self-Supervision|CVPR|[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gudovskiy_Deep_Active_Learning_for_Biased_Datasets_via_Fisher_Kernel_Self-Supervision_CVPR_2020_paper.pdf)||| |
-| Deep Reinforcement Active Learning for Medical Image Classification   |MICCAI|[paper](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_4)||`RL.`| |
-| State-Relabeling Adversarial Active Learning  |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_State-Relabeling_Adversarial_Active_Learning_CVPR_2020_paper.html)||  | |
-|Towards Robust and Reproducible Active Learning Using Neural Networks|arXiv|[paper](https://arxiv.org/pdf/2002.09564)||| |
+| Deep Reinforcement Active Learning for Medical Image Classification   |MICCAI|[paper](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_4)||`Pool.``RL.`| |
+| State-Relabeling Adversarial Active Learning  |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_State-Relabeling_Adversarial_Active_Learning_CVPR_2020_paper.html)|[code](https://github.com/Beichen1996/SRAAL)|`Pool.`  | |
+|Towards Robust and Reproducible Active Learning Using Neural Networks|arXiv|[paper](https://arxiv.org/pdf/2002.09564)||`Cri.`| |
 |Consistency-Based Semi-supervised Active Learning: Towards Minimizing Labeling Cost|ECCV|[paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_30)||`Pool.`,`SSL.`| |
 
 
@@ -147,7 +146,7 @@ Thanks for your valuable contribution to the research community. 😃
 ### 2021
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning   |arXiv|[paper](https://arxiv.org/abs/2103.14339)||`Meta.` `RL.`|  |
+| MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning   |arXiv|[paper](https://arxiv.org/abs/2103.14339)||`Pool.``Meta.` `RL.`|  |
 
 
 
