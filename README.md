@@ -157,6 +157,6 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## Tools
 * [ALiPy: Active Learning in Python](https://github.com/NUAA-AL/alipy). Ying-Peng Tang, Guo-Xiang Li, Sheng-Jun Huang. (NJU, 2019)
-* [[BAAL]A Bayesian Active Learning Library](https://github.com/ElementAI/baal/). Atighehchian, Parmida and Branchaud-Charron, Frederic and Freyberg, Jan and Pardinas, Rafael and Schell, Lorne. (2019)
+* [[BAAL] A Bayesian Active Learning Library](https://github.com/ElementAI/baal/). Atighehchian, Parmida and Branchaud-Charron, Frederic and Freyberg, Jan and Pardinas, Rafael and Schell, Lorne. (2019)
 
 
