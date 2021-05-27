@@ -103,7 +103,7 @@ Thanks for your valuable contribution to the research community. 😃
 |The Power of Ensembles for Active Learning in Image Classification|CVPR|[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf)||||
 | Adversarial Learning for Semi-Supervised Semantic Segmentation |BMVC|[paper](https://arxiv.org/abs/1802.07934)|[code](https://github.com/hfslyc/AdvSemiSeg)|`Pool.` `SSL.`|  |
 |A Variance Maximization Criterion for Active Learning|Pattern Recognition|[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300256)||||
-|Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning|ICLR-WS|[paper](https://arxiv.org/abs/1806.04798)|`Pool.` `Meta.` `RL.`|||
+|Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning|ICLR-WS|[paper](https://arxiv.org/abs/1806.04798)||`Pool.` `Meta.` `RL.`||
 |Active Learning for Convolutional Neural Networks: A Core-Set Approach|ICLR|[paper](https://openreview.net/pdf?id=H1aIuk-RW)||||
 |Adversarial Active Learning for Sequence Labeling and Generation|IJCAI|[paper](https://www.ijcai.org/proceedings/2018/0558.pdf)||||
 |Meta-Learning for Batch Mode Active Learning|ICLR-WS|[paper](https://openreview.net/references/pdf?id=r1PsGFJPz)||||
