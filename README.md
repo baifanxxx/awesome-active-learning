@@ -115,7 +115,7 @@ Thanks for your valuable contribution to the research community. 😃
 | --------     | :-----: |  :----: | :----: |----|----|
 | ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Siddiqui_ViewAL_Active_Learning_With_Viewpoint_Entropy_for_Semantic_Segmentation_CVPR_2020_paper.html)||`Pool.`| |
 | Bayesian Generative Active Deep Learning    |ICML|[paper](http://proceedings.mlr.press/v97/tran19a.html)|[code](https://github.com/toantm/BGADL)|`Pool.` `Semi.`|   |
-| Variational Adversarial Active Learning    |ICCV|[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Sinha_Variational_Adversarial_Active_Learning_ICCV_2019_paper.html)||`Pool.` `SSL.`|   |
+| Variational Adversarial Active Learning    |ICCV|[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Sinha_Variational_Adversarial_Active_Learning_ICCV_2019_paper.html)|[code](https://github.com/sinhasam/vaal)|`Pool.` `SSL.`|   |
 |Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning|NeurIPS|[paper](https://papers.nips.cc/paper/2019/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)|| |   |
 |Active Learning via Membership Query Synthesisfor Semi-supervised Sentence Classification|CoNLL|[paper](https://www.aclweb.org/anthology/K19-1044/)|| |   |
 |Discriminative Active Learning|arXiv|[paper](https://arxiv.org/pdf/1907.06347.pdf)|| |   |
