@@ -150,6 +150,9 @@ Thanks for your valuable contribution to the research community. 😃
 | Can Active Learning Preemptively Mitigate Fairness Issues |ICLR-RAI|[paper](https://arxiv.org/abs/2104.06879)|[code](https://github.com/ElementAI/active-fairness)|`Pool.`|Thinking fairness issues|
 |Sequential Graph Convolutional Network for Active Learning |CVPR|[paper](https://arxiv.org/pdf/2006.10219.pdf)|[code](https://github.com/razvancaramalau/Sequential-GCN-for-Active-Learning)|`Pool.`| |
 |Task-Aware Variational Adversarial Active Learning |CVPR|[paper](https://arxiv.org/abs/2002.04709)|[code](https://github.com/cubeyoung/TA-VAAL)|`Pool.`| |
+|Effective Evaluation of Deep Active Learning on Image Classification Tasks |arXiv|[paper](https://arxiv.org/abs/2106.15324)||`Cri.`| |
+|Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Semi-Supervised_Active_Learning_for_Semi-Supervised_Models_Exploit_Adversarial_Examples_With_ICCV_2021_paper.pdf)||`Pool.`| |
+
 
 
 ## Turtorials
