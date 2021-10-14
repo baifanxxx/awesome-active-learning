@@ -152,6 +152,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Task-Aware Variational Adversarial Active Learning |CVPR|[paper](https://arxiv.org/abs/2002.04709)|[code](https://github.com/cubeyoung/TA-VAAL)|`Pool.`| |
 |Effective Evaluation of Deep Active Learning on Image Classification Tasks |arXiv|[paper](https://arxiv.org/abs/2106.15324)||`Cri.`| |
 |Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Semi-Supervised_Active_Learning_for_Semi-Supervised_Models_Exploit_Adversarial_Examples_With_ICCV_2021_paper.pdf)||`Pool.`| |
+|Contrastive Coding for Active Learning under Class Distribution Mismatch |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Du_Contrastive_Coding_for_Active_Learning_Under_Class_Distribution_Mismatch_ICCV_2021_paper.html)|[code](https://github.com/RUC-DWBI-ML/CCAL)|`Pool.`|Defines a good question|
 
 
 
