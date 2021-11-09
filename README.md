@@ -153,6 +153,15 @@ Thanks for your valuable contribution to the research community. 😃
 |Effective Evaluation of Deep Active Learning on Image Classification Tasks |arXiv|[paper](https://arxiv.org/abs/2106.15324)||`Cri.`| |
 |Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Semi-Supervised_Active_Learning_for_Semi-Supervised_Models_Exploit_Adversarial_Examples_With_ICCV_2021_paper.pdf)||`Pool.`| |
 |Contrastive Coding for Active Learning under Class Distribution Mismatch |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Du_Contrastive_Coding_for_Active_Learning_Under_Class_Distribution_Mismatch_ICCV_2021_paper.html)|[code](https://github.com/RUC-DWBI-ML/CCAL)|`Pool.`|Defines a good question|
+|Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering
+ |ACL-IJCNLP|[paper](https://arxiv.org/abs/2107.02331)|[code](https://github.com/siddk/vqa-outliers)|`Pool.`| |
+|LADA: Look-Ahead Data Acquisition via Augmentation for Active Learning |NeurIPS|[paper](https://arxiv.org/abs/2011.04194)||`Pool.`| |
+|Multi-Anchor Active Domain Adaptation for Semantic Segmentation |ICCV|[paper](https://arxiv.org/abs/2108.08012)|[code](https://github.com/munanning/mada)|`Pool.`| |
+|Active Learning for Lane Detection: A Knowledge Distillation Approach |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Peng_Active_Learning_for_Lane_Detection_A_Knowledge_Distillation_Approach_ICCV_2021_paper.html)||`Pool.`| |
+|Active Contrastive Learning of Audio-Visual Video Representations |ICLR|[paper](https://arxiv.org/abs/2009.09805)|[code](https://github.com/yunyikristy/CM-ACC)|`Pool.`| |
+|Multiple instance active learning for object detection |CVPR|[paper](https://arxiv.org/abs/2104.02324)|[code](https://github.com/yuantn/MI-AOD)|`Pool.`| |
+
+
 
 
 
