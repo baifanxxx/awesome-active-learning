@@ -159,7 +159,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Active Learning for Lane Detection: A Knowledge Distillation Approach |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Peng_Active_Learning_for_Lane_Detection_A_Knowledge_Distillation_Approach_ICCV_2021_paper.html)||`Pool.`| |
 |Active Contrastive Learning of Audio-Visual Video Representations |ICLR|[paper](https://arxiv.org/abs/2009.09805)|[code](https://github.com/yunyikristy/CM-ACC)|`Pool.`| |
 |Multiple instance active learning for object detection |CVPR|[paper](https://arxiv.org/abs/2104.02324)|[code](https://github.com/yuantn/MI-AOD)|`Pool.`| |
-|SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency |NeurIPS|[paper](https://arxiv.org/abs/2112.01001)|| |Robot Exploration|
+|SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency |NeurIPS|[paper](https://arxiv.org/abs/2112.01001)|| |Robot exploration|
 |Influence Selection for Active Learning |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Influence_Selection_for_Active_Learning_ICCV_2021_paper.html)|[code](https://github.com/dragonlzm/ISAL)|`Pool.`||
 |Reducing Label Effort: Self-Supervised meets Active Learning |arXiv|[paper](https://arxiv.org/abs/2108.11458)||`Pool.` `SS.` `Cri.`| A meaningful attempt on the combination of SS & AL|
 
