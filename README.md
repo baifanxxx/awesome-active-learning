@@ -54,7 +54,7 @@ Thanks for your valuable contribution to the research community. 😃
 `Sur.`: survey               | `Cri.`: critics                     |
 `Pool.`: pool-based sampling | `Str.`: stream-based sampling       | `Syn.`: membership query synthesize |
 `Meta.`: meta learning       | `SSL.`: semi-supervised learning   | `RL.`: reinforcement learning       |
-`FS.`: few-shot learning     |
+`FS.`: few-shot learning     | `SS.`: self-supervised   |
 
 
 ### Before 2017
@@ -161,7 +161,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Multiple instance active learning for object detection |CVPR|[paper](https://arxiv.org/abs/2104.02324)|[code](https://github.com/yuantn/MI-AOD)|`Pool.`| |
 |SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency |NeurIPS|[paper](https://arxiv.org/abs/2112.01001)|| |Robot Exploration|
 |Influence Selection for Active Learning |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Influence_Selection_for_Active_Learning_ICCV_2021_paper.html)|[code](https://github.com/dragonlzm/ISAL)|`Pool.`||
-
+|Reducing Label Effort: Self-Supervised meets Active Learning |arXiv|[paper](https://arxiv.org/abs/2108.11458)||`Pool.` `SS.` `Cri.`| A meaningful attempt on the combination of SS and AL|
 
 
 
