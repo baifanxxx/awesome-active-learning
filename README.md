@@ -51,10 +51,10 @@ Thanks for your valuable contribution to the research community. 😃
 
 
 ### Tags
-`Sur.`: survey               | `Cri.`: critics                     |
-`Pool.`: pool-based sampling | `Str.`: stream-based sampling       | `Syn.`: membership query synthesize |
-`Meta.`: meta learning       | `SSL.`: semi-supervised learning   | `RL.`: reinforcement learning       |
-`FS.`: few-shot learning     | `SS.`: self-supervised   |
+`Sur.`: survey                | `Cri.`: critics                     |
+`Pool.`: pool-based sampling  | `Str.`: stream-based sampling       | `Syn.`: membership query synthesize |
+`Meta.`: meta learning        | `Semi.`: semi-supervised learning   | `Self.`: self-supervised   |
+`RL.`: reinforcement learning |`FS.`: few-shot learning     
 
 
 ### Before 2017
@@ -101,7 +101,7 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |The Power of Ensembles for Active Learning in Image Classification|CVPR|[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf)||||
-| Adversarial Learning for Semi-Supervised Semantic Segmentation |BMVC|[paper](https://arxiv.org/abs/1802.07934)|[code](https://github.com/hfslyc/AdvSemiSeg)|`Pool.` `SSL.`|  |
+| Adversarial Learning for Semi-Supervised Semantic Segmentation |BMVC|[paper](https://arxiv.org/abs/1802.07934)|[code](https://github.com/hfslyc/AdvSemiSeg)|`Pool.` `Semi.`|  |
 |A Variance Maximization Criterion for Active Learning|Pattern Recognition|[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300256)||||
 |Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning|ICLR-WS|[paper](https://arxiv.org/abs/1806.04798)||`Pool.` `Meta.` `RL.`||
 |Active Learning for Convolutional Neural Networks: A Core-Set Approach|ICLR|[paper](https://openreview.net/pdf?id=H1aIuk-RW)||||
@@ -115,7 +115,7 @@ Thanks for your valuable contribution to the research community. 😃
 | --------     | :-----: |  :----: | :----: |----|----|
 | ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Siddiqui_ViewAL_Active_Learning_With_Viewpoint_Entropy_for_Semantic_Segmentation_CVPR_2020_paper.html)||`Pool.`| |
 | Bayesian Generative Active Deep Learning    |ICML|[paper](http://proceedings.mlr.press/v97/tran19a.html)|[code](https://github.com/toantm/BGADL)|`Pool.` `Semi.`|   |
-| Variational Adversarial Active Learning    |ICCV|[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Sinha_Variational_Adversarial_Active_Learning_ICCV_2019_paper.html)|[code](https://github.com/sinhasam/vaal)|`Pool.` `SSL.`|   |
+| Variational Adversarial Active Learning    |ICCV|[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Sinha_Variational_Adversarial_Active_Learning_ICCV_2019_paper.html)|[code](https://github.com/sinhasam/vaal)|`Pool.` `Semi.`|   |
 |Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning|NeurIPS|[paper](https://papers.nips.cc/paper/2019/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)|| |   |
 |Active Learning via Membership Query Synthesisfor Semi-supervised Sentence Classification|CoNLL|[paper](https://www.aclweb.org/anthology/K19-1044/)|| |   |
 |Discriminative Active Learning|arXiv|[paper](https://arxiv.org/pdf/1907.06347.pdf)|| |   |
@@ -138,7 +138,7 @@ Thanks for your valuable contribution to the research community. 😃
 | Deep Reinforcement Active Learning for Medical Image Classification   |MICCAI|[paper](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_4)||`Pool.` `RL.`| |
 | State-Relabeling Adversarial Active Learning  |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_State-Relabeling_Adversarial_Active_Learning_CVPR_2020_paper.html)|[code](https://github.com/Beichen1996/SRAAL)|`Pool.`  | |
 |Towards Robust and Reproducible Active Learning Using Neural Networks|arXiv|[paper](https://arxiv.org/pdf/2002.09564)||`Cri.`| |
-|Consistency-Based Semi-supervised Active Learning: Towards Minimizing Labeling Cost|ECCV|[paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_30)||`Pool.` `SSL.`| |
+|Consistency-Based Semi-supervised Active Learning: Towards Minimizing Labeling Cost|ECCV|[paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_30)||`Pool.` `Semi.`| |
 
 
 
@@ -151,7 +151,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Sequential Graph Convolutional Network for Active Learning |CVPR|[paper](https://arxiv.org/pdf/2006.10219.pdf)|[code](https://github.com/razvancaramalau/Sequential-GCN-for-Active-Learning)|`Pool.`| |
 |Task-Aware Variational Adversarial Active Learning |CVPR|[paper](https://arxiv.org/abs/2002.04709)|[code](https://github.com/cubeyoung/TA-VAAL)|`Pool.`| |
 |Effective Evaluation of Deep Active Learning on Image Classification Tasks |arXiv|[paper](https://arxiv.org/abs/2106.15324)||`Cri.`| |
-|Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Semi-Supervised_Active_Learning_for_Semi-Supervised_Models_Exploit_Adversarial_Examples_With_ICCV_2021_paper.pdf)||`Pool.` `SSL.`| |
+|Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Semi-Supervised_Active_Learning_for_Semi-Supervised_Models_Exploit_Adversarial_Examples_With_ICCV_2021_paper.pdf)||`Pool.` `Semi.`| |
 |Contrastive Coding for Active Learning under Class Distribution Mismatch |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Du_Contrastive_Coding_for_Active_Learning_Under_Class_Distribution_Mismatch_ICCV_2021_paper.html)|[code](https://github.com/RUC-DWBI-ML/CCAL)|`Pool.`|Defines a good question|
 |Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering |ACL-IJCNLP|[paper](https://arxiv.org/abs/2107.02331)|[code](https://github.com/siddk/vqa-outliers)|`Pool.`|Thinking about outliers |
 |LADA: Look-Ahead Data Acquisition via Augmentation for Active Learning |NeurIPS|[paper](https://arxiv.org/abs/2011.04194)||`Pool.`| |
@@ -161,7 +161,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Multiple instance active learning for object detection |CVPR|[paper](https://arxiv.org/abs/2104.02324)|[code](https://github.com/yuantn/MI-AOD)|`Pool.`| |
 |SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency |NeurIPS|[paper](https://arxiv.org/abs/2112.01001)|| |Robot exploration|
 |Influence Selection for Active Learning |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Influence_Selection_for_Active_Learning_ICCV_2021_paper.html)|[code](https://github.com/dragonlzm/ISAL)|`Pool.`||
-|Reducing Label Effort: Self-Supervised meets Active Learning |arXiv|[paper](https://arxiv.org/abs/2108.11458)||`Pool.` `SS.` `Cri.`| A meaningful attempt on the combination of SS & AL|
+|Reducing Label Effort: Self-Supervised meets Active Learning |arXiv|[paper](https://arxiv.org/abs/2108.11458)||`Pool.` `Self.` `Cri.`| A meaningful attempt on the combination of SS & AL|
 
 
 
