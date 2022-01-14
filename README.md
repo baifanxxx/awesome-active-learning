@@ -21,7 +21,7 @@ There are situations in which unlabeled data is abundant but manual labeling is 
 
 ## Contributing
 
-If you find the awesome paper/code/book/tutorial or have some suggestions, please feel free to [pull requests](https://github.com/baifanxxx/awesome-active-learning/pulls) or contact <baifanxxx@gmail.com> to add papers using the following Markdown format:
+If you find the awesome paper/code/book/tutorial or have some suggestions, please feel free to [pull requests](https://github.com/baifanxxx/awesome-active-learning/pulls) or contact <baifanxxx@gmail.com> or <chenliangyudavid@gmail.com> to add papers using the following Markdown format:
 
 ```
 Year | Paper Name | Conference | [Paper](link) | [Code](link) | Tags | Notes |
@@ -140,7 +140,7 @@ Thanks for your valuable contribution to the research community. 😃
 | State-Relabeling Adversarial Active Learning  |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_State-Relabeling_Adversarial_Active_Learning_CVPR_2020_paper.html)|[code](https://github.com/Beichen1996/SRAAL)|`Pool.`  | |
 |Towards Robust and Reproducible Active Learning Using Neural Networks|arXiv|[paper](https://arxiv.org/pdf/2002.09564)||`Cri.`| |
 |Consistency-Based Semi-supervised Active Learning: Towards Minimizing Labeling Cost|ECCV|[paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_30)||`Pool.` `Semi.`| |
-
+|Cold-start Active Learning through Self-supervised Language Modeling|EMNLP|[paper](https://arxiv.org/abs/2010.09535)||`Pool.` `SS.`||
 
 
 
