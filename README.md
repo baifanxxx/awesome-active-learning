@@ -163,7 +163,8 @@ Thanks for your valuable contribution to the research community. 😃
 |SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency |NeurIPS|[paper](https://arxiv.org/abs/2112.01001)||`Self.`|Robot exploration|
 |Influence Selection for Active Learning |ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Influence_Selection_for_Active_Learning_ICCV_2021_paper.html)|[code](https://github.com/dragonlzm/ISAL)|`Pool.`||
 |Reducing Label Effort: Self-Supervised meets Active Learning |arXiv|[paper](https://arxiv.org/abs/2108.11458)||`Pool.` `Self.` `Cri.`| A meaningful attempt on the combination of SS & AL|
-|Towards General and Efficient Active Learning |arXiv|[paper](https://arxiv.org/abs/2112.07963)|[code](https://github.com/yunyikristy/CM-ACC)|`Pool.` `Self.`| Single-pass AL based on SS ViT|
+|Towards General and Efficient Active Learning |arXiv|[paper](https://arxiv.org/abs/2112.07963)|[code](https://github.com/yichen928/GEAL_active_learning)|`Pool.` `Self.`| Single-pass AL based on SS ViT|
+|Cartography Active Learning |EMNLP Findings|[paper](https://arxiv.org/abs/2109.04282)|[code](https://github.com/jjzha/cal)|`Pool.`| |
 
 ### 2022
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
