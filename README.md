@@ -165,8 +165,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Reducing Label Effort: Self-Supervised meets Active Learning |arXiv|[paper](https://arxiv.org/abs/2108.11458)||`Pool.` `Self.` `Cri.`| A meaningful attempt on the combination of SS & AL|
 |Towards General and Efficient Active Learning |arXiv|[paper](https://arxiv.org/abs/2112.07963)|[code](https://github.com/yichen928/GEAL_active_learning)|`Pool.` `Self.`| Single-pass AL based on SS ViT|
 |Cartography Active Learning |EMNLP Findings|[paper](https://arxiv.org/abs/2109.04282)|[code](https://github.com/jjzha/cal)|`Pool.`| |
-|Joint Semi-supervised and Active Learning for Segmentation of
-Gigapixel Pathology Images with Cost-Effective Labeling |ICCVW|[paper](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)||`Pool.`| Cold-start problem|
+|Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling |ICCVW|[paper](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)||`Pool.`| Cold-start problem|
 
 
 ### 2022
