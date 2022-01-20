@@ -62,7 +62,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 # Surveys
 
-| Year | Paper | Author | Conf | Code | Notes |
+| Year | Paper | Author | Publication | Code | Notes |
 | --- | --- | :---: | :---: |  --- | --- |
 | 2009 | [Active Learning Literature Survey](https://minds.wisconsin.edu/handle/1793/60660) | Settles, Burr. | University of Wisconsin-Madison Department of Computer Sciences |  |  |
 | 2020 | [A Survey of Deep Active Learning](https://arxiv.org/abs/2009.00236) | Pengzhen Ren et al. | CSUR |  |  |
@@ -72,7 +72,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## Before 2017
 
-|Year| Title        | Conf    |  Paper  |  Code  | Tags | Notes |
+|Year| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 |----| --------     | :-----: |  :----: | :----: |----|----|
 |1994|Improving Generalization with Active Learning|Machine Learning|[paper](https://link.springer.com/content/pdf/10.1007/BF00993277.pdf)||   |     |
 |2007|Discriminative Batch Mode Active Learning|NIPS|[paper](https://dl.acm.org/doi/pdf/10.1145/1390156.1390183)| [code](https://github.com/dsgissin/DiscriminativeActiveLearning) |   |     |
@@ -96,7 +96,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## 2017
 
-| Title        | Conf    |  Paper  |  Code  | Tags | Notes |
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |Active Decision Boundary Annotation with Deep Generative Models|ICCV|[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huijser_Active_Decision_Boundary_ICCV_2017_paper.pdf)| [code](https://github.com/MiriamHu/ActiveBoundary) |||
 | Active One-shot Learning         |CoRR|[paper](https://arxiv.org/abs/1702.06559)|[code](https://github.com/markpwoodward/active_osl)|`Str.` `RL.` `FS.`|     |
@@ -110,7 +110,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## 2018
 
-| Title        | Conf    |  Paper  |  Code  | Tags | Notes |
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |The Power of Ensembles for Active Learning in Image Classification|CVPR|[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf)||||
 | Adversarial Learning for Semi-Supervised Semantic Segmentation |BMVC|[paper](https://arxiv.org/abs/1802.07934)|[code](https://github.com/hfslyc/AdvSemiSeg)|`Pool.` `Semi.`|  |
@@ -122,7 +122,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## 2019
 
-| Title        | Conf    |  Paper  |  Code  | Tags | Notes |
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Generative Adversarial Active Learning for Unsupervised Outlier Detection | TKDE | [paper](https://arxiv.org/pdf/1809.10816v4.pdf) | [code](https://github.com/leibinghe/GAAL-based-outlier-detection) |||
 | Bayesian Generative Active Deep Learning    |ICML|[paper](http://proceedings.mlr.press/v97/tran19a.html)|[code](https://github.com/toantm/BGADL)|`Pool.` `Semi.`|   |
@@ -140,7 +140,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## 2020
 
-| Title        | Conf    |  Paper  |  Code  | Tags | Notes |
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Reinforced active learning for image segmentation |ICLR|[paper](https://arxiv.org/abs/2002.06583)|[code](https://github.com/ArantxaCasanova/ralis)|`Pool.` `RL.`| |
 |Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds|ICLR|[paper](https://arxiv.org/abs/1906.03671)|[code](https://github.com/JordanAsh/badge)|`Pool.`| |
@@ -158,7 +158,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## 2021
 
-| Title        | Conf    |  Paper  |  Code  | Tags | Notes |
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning   |arXiv|[paper](https://arxiv.org/abs/2103.14339)| [code](https://github.com/stanfordmlgroup/MedSelect) |`Pool.` `Meta.` `RL.`|  |
 | Can Active Learning Preemptively Mitigate Fairness Issues |ICLR-RAI|[paper](https://arxiv.org/abs/2104.06879)|[code](https://github.com/ElementAI/active-fairness)|`Pool.`|Thinking fairness issues|
@@ -182,7 +182,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 ## 2022
 
-| Title        | Conf    |  Paper  |  Code  | Tags | Notes |
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
 
