@@ -1,4 +1,4 @@
-<font size=6><center><big><b> Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
+# Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 🤩 A curated list of awesome Active Learning ! 🤩
 
