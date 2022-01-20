@@ -90,6 +90,7 @@ Thanks for your valuable contribution to the research community. 😃
 |2013|Active Learning for Probabilistic Hypotheses Usingthe Maximum Gibbs Error Criterion|NIPS|[paper](https://eprints.qut.edu.au/114032/)||   |     |
 |2014|Active Semi-Supervised Learning Using Sampling Theory for Graph Signals|KDD|[paper](https://dl.acm.org/doi/abs/10.1145/2623330.2623760)| [code](https://github.com/broshanfekr/Active_Semi-Supervised_Learning_Using_Sampling_Theory_for_Graph_signals) |   |     |
 |2014|Beyond Disagreement-based Agnostic Active Learning|NIPS|[paper](https://arxiv.org/abs/1407.2657)||   |     |
+|2015|Multi-Label Active Learning from Crowds| arXiv |[paper](https://arxiv.org/pdf/1508.00722v1.pdf)||   |     |
 |2016|Cost-Effective Active Learning for Deep Image Classification|TCSVT|[paper](https://arxiv.org/pdf/1701.03551.pdf)| [code](https://github.com/dhaalves/CEAL_keras) |   |     |
 |2016|Active Image Segmentation Propagation|CVPR|[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Active_Image_Segmentation_CVPR_2016_paper.pdf)||   |     |
 
@@ -123,12 +124,14 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| Generative Adversarial Active Learning for Unsupervised Outlier Detection | TKDE | [paper](https://arxiv.org/pdf/1809.10816v4.pdf) | [code](https://github.com/leibinghe/GAAL-based-outlier-detection) |||
 | Bayesian Generative Active Deep Learning    |ICML|[paper](http://proceedings.mlr.press/v97/tran19a.html)|[code](https://github.com/toantm/BGADL)|`Pool.` `Semi.`|   |
 | Variational Adversarial Active Learning    |ICCV|[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Sinha_Variational_Adversarial_Active_Learning_ICCV_2019_paper.html)|[code](https://github.com/sinhasam/vaal)|`Pool.` `Semi.`|   |
 |Integrating Bayesian and Discriminative Sparse Kernel Machines for Multi-class Active Learning|NeurIPS|[paper](https://papers.nips.cc/paper/2019/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)|| |   |
 |Active Learning via Membership Query Synthesisfor Semi-supervised Sentence Classification|CoNLL|[paper](https://www.aclweb.org/anthology/K19-1044/)|| |   |
 |Discriminative Active Learning|arXiv|[paper](https://arxiv.org/pdf/1907.06347.pdf)| [code](https://github.com/dsgissin/DiscriminativeActiveLearning) | |   |
 |Semantic Redundancies in Image-Classification Datasets: The 10% You Don’t Need|arXiv|[paper](https://arxiv.org/pdf/1901.11409.pdf)|| |   |
+|On-the-Fly Bayesian Active Learning of Interpretable Force-Fields for Atomistic Rare Events|npj Computational Materials|[paper](https://arxiv.org/pdf/1904.02042v2.pdf)| [code](https://github.com/mir-group/flare) | |   |
 |Bayesian Batch Active Learning as Sparse Subset Approximation|NIPS|[paper](http://papers.nips.cc/paper/8865-bayesian-batch-active-learning-as-sparse-subset-approximation.pdf)| [code](https://github.com/rpinsler/active-bayesian-coresets) | |   |
 | Learning Loss for Active Learning   |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Yoo_Learning_Loss_for_Active_Learning_CVPR_2019_paper.html)|[code](https://github.com/Mephisto405/Learning-Loss-for-Active-Learning)|`Pool.` |   |
 |Rapid Performance Gain through Active Model Reuse|IJCAI|[paper](http://www.lamda.nju.edu.cn/liyf/paper/ijcai19-acmr.pdf)|| |   |
@@ -140,7 +143,7 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Reinforced active learning for image segmentation |ICLR|[paper](https://arxiv.org/abs/2002.06583)|[code](https://github.com/ArantxaCasanova/ralis)|`Pool.` `RL.`| |
-|[BADGE] Batch Active learning by Diverse Gradient Embeddings|ICLR|[paper](https://arxiv.org/abs/1906.03671)|[code](https://github.com/JordanAsh/badge)|`Pool.`| |
+|Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds|ICLR|[paper](https://arxiv.org/abs/1906.03671)|[code](https://github.com/JordanAsh/badge)|`Pool.`| |
 |Adversarial Sampling for Active Learning|WACV|[paper](https://openaccess.thecvf.com/content_WACV_2020/html/Mayer_Adversarial_Sampling_for_Active_Learning_WACV_2020_paper.html)||`Pool.`| |
 |Online Active Learning of Reject Option Classifiers|AAAI|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6019/5875)||| |
 | ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Siddiqui_ViewAL_Active_Learning_With_Viewpoint_Entropy_for_Semantic_Segmentation_CVPR_2020_paper.html)| [code](https://github.com/nihalsid/ViewAL) |`Pool.`| |
@@ -148,6 +151,8 @@ Thanks for your valuable contribution to the research community. 😃
 | Deep Reinforcement Active Learning for Medical Image Classification   |MICCAI|[paper](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_4)||`Pool.` `RL.`| |
 | State-Relabeling Adversarial Active Learning  |CVPR|[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_State-Relabeling_Adversarial_Active_Learning_CVPR_2020_paper.html)|[code](https://github.com/Beichen1996/SRAAL)|`Pool.`  | |
 |Towards Robust and Reproducible Active Learning Using Neural Networks|arXiv|[paper](https://arxiv.org/pdf/2002.09564)| [code](https://github.com/acl21/deep-active-learning-pytorch) |`Cri.`| |
+| Minimax Active Learning | arXiv |[paper](https://arxiv.org/pdf/2012.10467v2.pdf)|||  |
+| Bayesian Force Fields from Active Learning for Simulation of Inter-Dimensional Transformation of Stanene | npj Computational Materials | [paper](https://arxiv.org/pdf/2008.11796v2.pdf) | [code](https://github.com/mir-group/flare) ||  |
 |Consistency-Based Semi-supervised Active Learning: Towards Minimizing Labeling Cost|ECCV|[paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_30)||`Pool.` `Semi.`| |
 |Cold-start Active Learning through Self-supervised Language Modeling|EMNLP|[paper](https://arxiv.org/abs/2010.09535)| [code](https://github.com/forest-snow/alps) |`Pool.` `SS.`||
 
