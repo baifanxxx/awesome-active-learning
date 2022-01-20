@@ -153,7 +153,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Conf    |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning   |arXiv|[paper](https://arxiv.org/abs/2103.14339)||`Pool.` `Meta.` `RL.`|  |
+| MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning   |arXiv|[paper](https://arxiv.org/abs/2103.14339)| [code](https://github.com/stanfordmlgroup/MedSelect) |`Pool.` `Meta.` `RL.`|  |
 | Can Active Learning Preemptively Mitigate Fairness Issues |ICLR-RAI|[paper](https://arxiv.org/abs/2104.06879)|[code](https://github.com/ElementAI/active-fairness)|`Pool.`|Thinking fairness issues|
 |Sequential Graph Convolutional Network for Active Learning |CVPR|[paper](https://arxiv.org/pdf/2006.10219.pdf)|[code](https://github.com/razvancaramalau/Sequential-GCN-for-Active-Learning)|`Pool.`| |
 |Task-Aware Variational Adversarial Active Learning |CVPR|[paper](https://arxiv.org/abs/2002.04709)|[code](https://github.com/cubeyoung/TA-VAAL)|`Pool.`| |
