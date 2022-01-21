@@ -41,7 +41,6 @@ Thanks for your valuable contribution to the research community. 😃
 
 <font size=5><center><b> Table of Contents </b></center></font>
 
-- [Awesome Active Learning ![Awesome](https://awesome.re)](#awesome-active-learning-)
 - [Books](#books)
 - [Surveys](#surveys)
 - [Papers](#papers)
