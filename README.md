@@ -160,6 +160,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| Active learning with MaskAL reduces annotation effort for training Mask R-CNN | arXiv | [paper](https://arxiv.org/abs/2112.06586) | [code](https://github.com/pieterblok/maskal) |  |  |
 | MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning   |arXiv|[paper](https://arxiv.org/abs/2103.14339)| [code](https://github.com/stanfordmlgroup/MedSelect) |`Pool.` `Meta.` `RL.`|  |
 | Can Active Learning Preemptively Mitigate Fairness Issues |ICLR-RAI|[paper](https://arxiv.org/abs/2104.06879)|[code](https://github.com/ElementAI/active-fairness)|`Pool.`|Thinking fairness issues|
 |Sequential Graph Convolutional Network for Active Learning |CVPR|[paper](https://arxiv.org/pdf/2006.10219.pdf)|[code](https://github.com/razvancaramalau/Sequential-GCN-for-Active-Learning)|`Pool.`| |
@@ -194,5 +195,6 @@ Thanks for your valuable contribution to the research community. 😃
 
 # Tools
 
+* [modAL: A modular active learning framework for Python](https://github.com/modAL-python/modAL). Tivadar Danka and Peter Horvath. (2018)
 * [ALiPy: Active Learning in Python](https://github.com/NUAA-AL/alipy). Ying-Peng Tang, Guo-Xiang Li, Sheng-Jun Huang. (NUAA, 2019)
 * [[BAAL] A Bayesian Active Learning Library](https://github.com/ElementAI/baal/). Atighehchian, Parmida and Branchaud-Charron, Frederic and Freyberg, Jan and Pardinas, Rafael and Schell, Lorne. (2019)
