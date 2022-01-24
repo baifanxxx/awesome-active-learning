@@ -180,6 +180,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Towards General and Efficient Active Learning |arXiv|[paper](https://arxiv.org/abs/2112.07963)|[code](https://github.com/yichen928/GEAL_active_learning)|`Pool.` `Self.`| Single-pass AL based on SS ViT|
 |Cartography Active Learning |EMNLP Findings|[paper](https://arxiv.org/abs/2109.04282)|[code](https://github.com/jjzha/cal)|`Pool.`| |
 |Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling |ICCVW|[paper](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)||`Pool.`| |
+|PAL : Pretext-based Active Learning|BMVC|[paper](https://arxiv.org/abs/2010.15947)|[code](https://github.com/shubhangb97/PAL_pretext_based_active_learning)|`Pool.`| Cold-start problem|
 
 ## 2022
 
