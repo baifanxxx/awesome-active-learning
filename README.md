@@ -70,7 +70,6 @@ Thanks for your valuable contribution to the research community. 😃
 | 2020 | [A Survey of Active Learning for Text Classification using Deep Neural Networks](https://arxiv.org/abs/2008.07267) | Christopher Schröder et al. | arXiv |  |  |
 | 2021 | [A Survey on Active Deep Learning: From Model-driven to Data-driven](https://arxiv.org/abs/2101.09933) | Peng Liu et al. | CSUR |  |  |
 
-
 # Papers
 
 ## Before 2017
@@ -187,13 +186,13 @@ Thanks for your valuable contribution to the research community. 😃
 |PAL : Pretext-based Active Learning|BMVC|[paper](https://arxiv.org/abs/2010.15947)|[code](https://github.com/shubhangb97/PAL_pretext_based_active_learning)|`Pool.`| Cold-start problem|
 |Active Learning for Deep Object Detection via Probabilistic Modeling|ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Choi_Active_Learning_for_Deep_Object_Detection_via_Probabilistic_Modeling_ICCV_2021_paper.html)|[code](https://github.com/NVlabs/AL-MDN)|`Pool.`|GMM|
 
-
 ## 2022
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
 |Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
+| Semantic Segmentation with Active Semi-Supervised Learning | arXiv | [paper](https://arxiv.org/pdf/2203.10730) | | `Semi.` `Pool.` | |
 |Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach|ICLR|[paper](https://arxiv.org/abs/2106.02968)||`Pool.`| Cold-start problem|
 
 # Turtorials
