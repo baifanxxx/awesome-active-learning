@@ -159,6 +159,8 @@ Thanks for your valuable contribution to the research community. 😃
 | Bayesian Force Fields from Active Learning for Simulation of Inter-Dimensional Transformation of Stanene | npj Computational Materials | [paper](https://arxiv.org/pdf/2008.11796v2.pdf) | [code](https://github.com/mir-group/flare) ||  |
 |Consistency-Based Semi-supervised Active Learning: Towards Minimizing Labeling Cost|ECCV|[paper](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_30)||`Pool.` `Semi.`| |
 |Cold-start Active Learning through Self-supervised Language Modeling|EMNLP|[paper](https://arxiv.org/abs/2010.09535)| [code](https://github.com/forest-snow/alps) |`Pool.` `SS.`||
+|Ada-Boundary: Accelerating the DNN Training via Adaptive Boundary Batch Selection|Machine Learning|[paper](https://link.springer.com/article/10.1007%2Fs10994-020-05903-6)| [code](https://github.com/kaist-dmlab/Ada-Boundary) |`Pool.`||
+|Carpe Diem, Seize the Samples Uncertain “at the Moment” for Adaptive Batch Selection|CIKM|[paper](https://dl.acm.org/doi/10.1145/3340531.3411898)| [code](https://github.com/kaist-dmlab/RecencyBias) |`Pool.`	||
 
 ## 2021
 
@@ -186,6 +188,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling |ICCVW|[paper](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)||`Pool.`| |
 |PAL : Pretext-based Active Learning|BMVC|[paper](https://arxiv.org/abs/2010.15947)|[code](https://github.com/shubhangb97/PAL_pretext_based_active_learning)|`Pool.`| Cold-start problem|
 |Active Learning for Deep Object Detection via Probabilistic Modeling|ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Choi_Active_Learning_for_Deep_Object_Detection_via_Probabilistic_Modeling_ICCV_2021_paper.html)|[code](https://github.com/NVlabs/AL-MDN)|`Pool.`|GMM|
+|Customs Fraud Detection in the Presence of Concept Drift|ICDMW|[paper](https://arxiv.org/abs/2109.14155)||`Pool.`| Application|
 
 
 ## 2022
@@ -195,8 +198,11 @@ Thanks for your valuable contribution to the research community. 😃
 |Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
 |Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
 |Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach|ICLR|[paper](https://arxiv.org/abs/2106.02968)||`Pool.`| Cold-start problem|
+|Active Learning for Human-in-the-loop Customs Inspection|TKDE|[paper](https://ieeexplore.ieee.org/document/9695316)||`Pool.`| Application|
+|Coherence-based Label Propagation over Time Series for Accelerated Active Learning|ICLR|[paper](https://openreview.net/forum?id=gjNcH0hj0LM)||`Pool.`|Time series|
 
-# Turtorials
+
+# Tutorials
 
 * [Overview of Active Learning for Deep Learning](https://jacobgil.github.io/deeplearning/activelearning). Jacob Gildenblat.
 * [Active Learning from Theory to Practice](https://www.youtube.com/watch?v=_Ql5vfOPxZU). Steve Hanneke, Robert Nowak. (ICML, 2019)
