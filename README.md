@@ -195,6 +195,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
 |Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
 |Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach|ICLR|[paper](https://arxiv.org/abs/2106.02968)||`Pool.`| Cold-start problem|
+|Active Learning by Feature Mixing|CVPR|[paper](https://arxiv.org/abs/2203.07034)|[code](https://github.com/AminParvaneh/alpha_mix_active_learning)|`Pool.`||
 
 # Turtorials
 
