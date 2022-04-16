@@ -196,6 +196,8 @@ Thanks for your valuable contribution to the research community. 😃
 |Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
 |Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach|ICLR|[paper](https://arxiv.org/abs/2106.02968)||`Pool.`| Cold-start problem|
 |Active Learning by Feature Mixing|CVPR|[paper](https://arxiv.org/abs/2203.07034)|[code](https://github.com/AminParvaneh/alpha_mix_active_learning)|`Pool.`||
+|Coherence-based Label Propagation over Time Series for Accelerated Active Learning|ICLR|[paper](https://openreview.net/forum?id=gjNcH0hj0LM)||`Pool.`|Time series|
+
 
 # Turtorials
 
