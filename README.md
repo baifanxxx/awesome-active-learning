@@ -186,6 +186,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling |ICCVW|[paper](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)||`Pool.`| |
 |PAL : Pretext-based Active Learning|BMVC|[paper](https://arxiv.org/abs/2010.15947)|[code](https://github.com/shubhangb97/PAL_pretext_based_active_learning)|`Pool.`| Cold-start problem|
 |Active Learning for Deep Object Detection via Probabilistic Modeling|ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Choi_Active_Learning_for_Deep_Object_Detection_via_Probabilistic_Modeling_ICCV_2021_paper.html)|[code](https://github.com/NVlabs/AL-MDN)|`Pool.`|GMM|
+|Unsupervised Data Selection for Data-Centric Semi-Supervised Learning|arXiv|[paper](https://arxiv.org/abs/2110.03006)||`Pool.`|Data selection + SSL|
 
 
 ## 2022
