@@ -185,7 +185,6 @@ Thanks for your valuable contribution to the research community. 😃
 
 |Year| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 |----| --------     | :-----: |  :----: | :----: |----|----|
-
 |2016|Active Image Segmentation Propagation|CVPR|[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Active_Image_Segmentation_CVPR_2016_paper.pdf)||   |     |
 |2016|Cost-Effective Active Learning for Deep Image Classification|TCSVT|[paper](https://arxiv.org/pdf/1701.03551.pdf)| [code](https://github.com/dhaalves/CEAL_keras) |   |     |
 |2015|Multi-Label Active Learning from Crowds| arXiv |[paper](https://arxiv.org/pdf/1508.00722v1.pdf)||   |     |
