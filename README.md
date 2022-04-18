@@ -165,7 +165,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Active Learning for Convolutional Neural Networks: A Core-Set Approach|ICLR|[paper](https://openreview.net/pdf?id=H1aIuk-RW)||||
 |Adversarial Active Learning for Sequence Labeling and Generation|IJCAI|[paper](https://www.ijcai.org/proceedings/2018/0558.pdf)||||
 |Meta-Learning for Batch Mode Active Learning|ICLR-WS|[paper](https://openreview.net/references/pdf?id=r1PsGFJPz)||||
-
+|CEREALS - Cost-Effective REgion-based Active Learning for Semantic Segmentation | BMVC | [paper](https://arxiv.org/abs/1810.09726) |  |  |  |
 
 ## 2017
 
@@ -188,6 +188,7 @@ Thanks for your valuable contribution to the research community. 😃
 |2016|Active Image Segmentation Propagation|CVPR|[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Active_Image_Segmentation_CVPR_2016_paper.pdf)||   |     |
 |2016|Cost-Effective Active Learning for Deep Image Classification|TCSVT|[paper](https://arxiv.org/pdf/1701.03551.pdf)| [code](https://github.com/dhaalves/CEAL_keras) |   |     |
 |2015|Multi-Label Active Learning from Crowds| arXiv |[paper](https://arxiv.org/pdf/1508.00722v1.pdf)||   |     |
+|2015|Active Learning by Learning | AAAI | [paper](https://www.csie.ntu.edu.tw/~htlin/paper/doc/aaai15albl.pdf) |  |  |  |
 |2014|Beyond Disagreement-based Agnostic Active Learning|NIPS|[paper](https://arxiv.org/abs/1407.2657)||   |     |
 |2014|Active Semi-Supervised Learning Using Sampling Theory for Graph Signals|KDD|[paper](https://dl.acm.org/doi/abs/10.1145/2623330.2623760)| [code](https://github.com/broshanfekr/Active_Semi-Supervised_Learning_Using_Sampling_Theory_for_Graph_signals) |   |     |
 |2013|Active Learning for Probabilistic Hypotheses Usingthe Maximum Gibbs Error Criterion|NIPS|[paper](https://eprints.qut.edu.au/114032/)||   |     |
