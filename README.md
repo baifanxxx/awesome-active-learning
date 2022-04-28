@@ -113,6 +113,7 @@ Thanks for your valuable contribution to the research community. 😃
 |PAL : Pretext-based Active Learning|BMVC|[paper](https://arxiv.org/abs/2010.15947)|[code](https://github.com/shubhangb97/PAL_pretext_based_active_learning)|`Pool.`| Cold-start problem|
 |Active Learning for Deep Object Detection via Probabilistic Modeling|ICCV|[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Choi_Active_Learning_for_Deep_Object_Detection_via_Probabilistic_Modeling_ICCV_2021_paper.html)|[code](https://github.com/NVlabs/AL-MDN)|`Pool.`|GMM|
 |Unsupervised Data Selection for Data-Centric Semi-Supervised Learning|arXiv|[paper](https://arxiv.org/abs/2110.03006)||`Pool.`|Data selection + SSL|
+|Batch Active Learning at Scale|NeurIPS|[paper](https://arxiv.org/abs/2107.14263)||`Scale.` `Pool.`| |
 
 
 ## 2020
@@ -165,6 +166,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Active Learning for Convolutional Neural Networks: A Core-Set Approach|ICLR|[paper](https://openreview.net/pdf?id=H1aIuk-RW)||||
 |Adversarial Active Learning for Sequence Labeling and Generation|IJCAI|[paper](https://www.ijcai.org/proceedings/2018/0558.pdf)||||
 |Meta-Learning for Batch Mode Active Learning|ICLR-WS|[paper](https://openreview.net/references/pdf?id=r1PsGFJPz)||||
+|Adversarial Active Learning for Deep Networks: a Margin Based Approach | ICML | [paper](https://arxiv.org/abs/1802.09841) |  |  |  |
 |CEREALS - Cost-Effective REgion-based Active Learning for Semantic Segmentation | BMVC | [paper](https://arxiv.org/abs/1810.09726) |  |  |  |
 
 ## 2017
