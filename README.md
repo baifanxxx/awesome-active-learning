@@ -80,6 +80,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+|Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation |CVPR|[paper](https://arxiv.org/abs/2111.12940)|[code](https://github.com/BIT-DA/RIPU)|`Pool.`||
 |Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
 |Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
 |Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach|ICLR|[paper](https://arxiv.org/abs/2106.02968)||`Pool.`| Cold-start problem|
