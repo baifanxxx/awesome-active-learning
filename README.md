@@ -217,6 +217,7 @@ Thanks for your valuable contribution to the research community. 😃
 * [Active Learning from Theory to Practice](https://www.youtube.com/watch?v=_Ql5vfOPxZU). Steve Hanneke, Robert Nowak. (ICML, 2019)
 
 # Tools
+* [Active-Learning-as-a-Service: An Efficient MLOps System for Data-Centric AI](https://github.com/MLSysOps/Active-Learning-as-a-Service). Huang, Yizheng and Zhang, Huaizheng and Li, Yuanming and Lau, Chiew Tong and You, Yang. (2022)
 * [[BAAL] A Bayesian Active Learning Library](https://github.com/ElementAI/baal/). Atighehchian, Parmida and Branchaud-Charron, Frederic and Freyberg, Jan and Pardinas, Rafael and Schell, Lorne. (2019)
 * [ALiPy: Active Learning in Python](https://github.com/NUAA-AL/alipy). Ying-Peng Tang, Guo-Xiang Li, Sheng-Jun Huang. (NUAA, 2019)
 * [modAL: A modular active learning framework for Python](https://github.com/modAL-python/modAL). Tivadar Danka and Peter Horvath. (2018)
