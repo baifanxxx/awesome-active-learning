@@ -66,6 +66,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Year | Paper | Author | Publication | Code | Notes |
 | --- | --- | :---: | :---: |  --- | --- |
+| 2022 | [A Comparative Survey of Deep Active Learning](https://arxiv.org/pdf/2203.13450.pdf) | Xueying Zhan et al. | Arxiv | [code](https://github.com/SineZHAN/deepALplus) |  |
 | 2021 | [A Survey on Active Deep Learning: From Model-driven to Data-driven](https://arxiv.org/abs/2101.09933) | Peng Liu et al. | CSUR |  |  |
 | 2020 | [A Survey of Active Learning for Text Classification using Deep Neural Networks](https://arxiv.org/abs/2008.07267) | Christopher Schröder et al. | arXiv || |
 | 2020 | [A Survey of Deep Active Learning](https://arxiv.org/abs/2009.00236) | Pengzhen Ren et al. | CSUR |  |  |
