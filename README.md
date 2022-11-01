@@ -81,6 +81,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+|Meta-Query-Net: Resolving Purity-Informativeness Dilemma in Open-set Active Learning|NeurIPS|[paper](https://arxiv.org/pdf/2210.07805.pdf)|[code](https://github.com/kaist-dmlab/MQNet)|`Pool.`||
 |One-Bit Active Query With Contrastive Pairs|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_One-Bit_Active_Query_With_Contrastive_Pairs_CVPR_2022_paper.html)|  |`Pool.`|One-bit supervision task|
 |Active label cleaning for improved dataset quality under resource constraints |Nature Communications|[paper](https://arxiv.org/abs/2109.00574)|[code](https://github.com/microsoft/InnerEye-DeepLearning/tree/1606729c7a16e1bfeb269694314212b6e2737939/InnerEye-DataQuality)|`Pool.`|Label cleaning|
 |Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation |CVPR|[paper](https://arxiv.org/abs/2111.12940)|[code](https://github.com/BIT-DA/RIPU)|`Pool.`||
