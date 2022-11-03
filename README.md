@@ -81,6 +81,8 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+|Making Your First Choice: To Address Cold Start Problem in Vision Active Learning|NeurIPS workshop|[paper](https://arxiv.org/abs/2210.02442)|[code](https://github.com/c-liangyu/CSVAL)|`Pool.`| Cold-start problem|
+|Active Learning Through a Covering Lens|NeurIPS|[paper](https://arxiv.org/abs/2205.11320)|[code](https://github.com/avihu111/TypiClust)|`Pool.`| |
 |Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation|NeurIPS|[paper](https://arxiv.org/pdf/2202.06881)|[code](https://github.com/jlko/active-surrogate-estimators)|`Pool.`|Model evaluation|
 |Meta-Query-Net: Resolving Purity-Informativeness Dilemma in Open-set Active Learning|NeurIPS|[paper](https://arxiv.org/pdf/2210.07805.pdf)|[code](https://github.com/kaist-dmlab/MQNet)|`Pool.`||
 |One-Bit Active Query With Contrastive Pairs|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_One-Bit_Active_Query_With_Contrastive_Pairs_CVPR_2022_paper.html)|  |`Pool.`|One-bit supervision task|
