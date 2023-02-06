@@ -128,7 +128,8 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| Active Learning for BERT: An Empirical Study | EMNLP | [paper](https://aclanthology.org/2020.emnlp-main.638/) | [code](https://github.com/IBM/low-resource-text-classification-framework) |
+| Contextual Diversity for Active Learning | ECCV | [paper](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_9) | [code](https://github.com/sharat29ag/CDAL) | `Pool.`| |
+| Active Learning for BERT: An Empirical Study | EMNLP | [paper](https://aclanthology.org/2020.emnlp-main.638/) | [code](https://github.com/IBM/low-resource-text-classification-framework) |`Pool.`| |
 | Reinforced active learning for image segmentation |ICLR|[paper](https://arxiv.org/abs/2002.06583)|[code](https://github.com/ArantxaCasanova/ralis)|`Pool.` `RL.`| |
 |Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds|ICLR|[paper](https://arxiv.org/abs/1906.03671)|[code](https://github.com/JordanAsh/badge)|`Pool.`| |
 |Adversarial Sampling for Active Learning|WACV|[paper](https://openaccess.thecvf.com/content_WACV_2020/html/Mayer_Adversarial_Sampling_for_Active_Learning_WACV_2020_paper.html)||`Pool.`| |
