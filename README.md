@@ -81,6 +81,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+|Active Learning Helps Pretrained Models Learn the Intended Task|NeurIPS|[paper](https://arxiv.org/abs/2204.08491)|[code](https://github.com/alextamkin/active-learning-pretrained-models)|`Pool.`||
 |Making Your First Choice: To Address Cold Start Problem in Vision Active Learning|NeurIPS workshop|[paper](https://arxiv.org/abs/2210.02442)|[code](https://github.com/c-liangyu/CSVAL)|`Pool.`| Cold-start problem|
 |Active Learning Through a Covering Lens|NeurIPS|[paper](https://arxiv.org/abs/2205.11320)|[code](https://github.com/avihu111/TypiClust)|`Pool.`| |
 |Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation|NeurIPS|[paper](https://arxiv.org/pdf/2202.06881)|[code](https://github.com/jlko/active-surrogate-estimators)|`Pool.`|Model evaluation|
