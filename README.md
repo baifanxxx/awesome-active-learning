@@ -76,6 +76,11 @@ Thanks for your valuable contribution to the research community. 😃
 
 # Papers
 
+## 2023
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+|Compute-Efficient Active Learning|NeurIPS 2023 Workshop ReALML|[Paper](https://openreview.net/pdf?id=G6ujG6LaKV)|[Code](https://github.com/aimotive/Compute-Efficient-Active-Learning) | Pool., Syn. | Method-agnostic framework |
 
 ## 2022
 
