@@ -76,6 +76,12 @@ Thanks for your valuable contribution to the research community. 😃
 
 # Papers
 
+## 2024
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+|Entropic Open-Set Active Learning|AAAI 2024|[Paper](https://arxiv.org/abs/2312.14126)|[Code](https://github.com/bardisafa/EOAL) | Pool.| Open-world AL |
+
 ## 2023
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
