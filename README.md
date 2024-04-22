@@ -80,7 +80,9 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+|Plug and Play Active Learning for Object Detection|CVPR 2024|[Paper](https://arxiv.org/abs/2211.11612)|[Code](https://github.com/ChenhongyiYang/PPAL) | Pool.| AL for Object Detection |
 |Entropic Open-Set Active Learning|AAAI 2024|[Paper](https://arxiv.org/abs/2312.14126)|[Code](https://github.com/bardisafa/EOAL) | Pool.| Open-world AL |
+
 
 ## 2023
 
