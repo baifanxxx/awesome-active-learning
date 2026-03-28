@@ -105,7 +105,7 @@ Thanks for your valuable contribution to the research community. 😃
 |Active Generalized Category Discovery|CVPR 2024|[Paper](https://arxiv.org/abs/2403.04272)|[Code](https://github.com/mashijie1028/ActiveGCD) | `Pool.`| More generalized AL considering unseen novel categories |
 |Plug and Play Active Learning for Object Detection|CVPR 2024|[Paper](https://arxiv.org/abs/2211.11612)|[Code](https://github.com/ChenhongyiYang/PPAL) | `Pool.`| AL for Object Detection |
 |Entropic Open-Set Active Learning|AAAI 2024|[Paper](https://arxiv.org/abs/2312.14126)|[Code](https://github.com/bardisafa/EOAL) | `Pool.`| Open-world AL |
-
+|Deep Active Learning with Noise Stability| AAAI 2024| [Paper](https://arxiv.org/pdf/2205.13340)|[Code](https://github.com/lixingjian/AL-noise-stability) | `Pool.`| A general AL method based on noise stability theories |
 
 ## 2023
 
