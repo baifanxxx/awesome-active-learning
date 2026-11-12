@@ -96,6 +96,7 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation|TMLR|[Paper](https://openreview.net/forum?id=AJAnmRLJjJ)|[Code](https://github.com/MIC-DKFZ/nnActive) · [Results](https://huggingface.co/nnActive)| `Pool.`, `Cri.`| Largest AL benchmark to date: ~150k GPU hours, 8 methods × 4 datasets × 3 label regimes in 3D biomedical segmentation |
+|LICORICE: Label-Efficient Concept-Based Interpretable Reinforcement Learning|ICLR|[Paper](https://arxiv.org/abs/2407.15786)|[Code](https://github.com/cuizhuyefei/LICORICE)| `Pool.`, `RL.`| Active learning of concept labels for concept-bottleneck RL policies; reaches strong performance with a small fraction of concept labels and supports VLM annotators|
 
 ## 2024
 
